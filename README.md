@@ -1,8 +1,4 @@
-Got it 👍 since you’ve deployed your app at **[https://queriums.streamlit.app/](https://queriums.streamlit.app/)**, we can add a nice **launch badge** and link in your README.
 
-Here’s the updated **README.md** with deployment info added:
-
----
 
 ```markdown
 # 🚀 NL2SQL Streamlit App
@@ -120,7 +116,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-✅ Now your README shows a **badge + direct link** to the deployed app.  
-
-Do you also want me to add a **demo GIF or screenshots** section so that GitHub visitors see how your app looks before clicking?
-```
