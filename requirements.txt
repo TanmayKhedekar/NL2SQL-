@@ -1,5 +1,9 @@
-streamlit
-pandas
-python-dotenv
+flask
+flask-cors
+psycopg2-binary
+bcrypt
+pyjwt
+requests
+textblob
 cohere
-openpyxl
+python-dotenv
