@@ -7,3 +7,5 @@ requests
 textblob
 cohere
 python-dotenv
+plotly
+streamlit
